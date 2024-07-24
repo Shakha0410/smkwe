@@ -12,28 +12,9 @@ export default function Document() {
         <meta name="title" content="Smk Web ✦ IT-Kompanya" />
         <meta name="description" content="Developer // Designer // Weeb" />
 
-        {/* <!-- Open Graph / Facebook --> */}
-        <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://pranjalshikhar.vercel.app/" />
-        <meta property="og:title" content="pranjal ✦ developer, designer" />
-        <meta
-          property="og:description"
-          content="Developer // Designer // Weeb"
-        />
-        <meta
-          property="og:image"
-          content="https://res.cloudinary.com/dhtviyhse/image/upload/v1682600618/pranjalshikhar_i8znzx.jpg"
-        />
-
 
         {/* canonical links */}
-        <link rel="canonical" href="https://pranjalshikhar.vercel.app/" />
-        <link
-          rel="search"
-          href="/opensearch.xml"
-          type="application/opensearchdescription+xml"
-          title="pranjal ✦ developer, designer"
-        />
+        <link rel="canonical" href="https://smkweb.com/" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
           rel="preconnect"

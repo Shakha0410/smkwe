@@ -8,8 +8,8 @@ import Experience from "@/components/Experience";
 
 import { BsArrowUpRight } from "react-icons/bs";
 
-import Avatar_Black from "@/public/logo.png";
-import Avatar_White from "@/public/logo.png";
+import Avatar_Black from "@/public/logos.png";
+import Avatar_White from "@/public/logos.png";
 import BooBlack from "@/public/boo-black.svg";
 import BooWhite from "@/public/boo-white.svg";
 import Link from "next/link";
@@ -74,7 +74,7 @@ export default function Home() {
           </div>
           <div className="mt-12 text-base md:text-xl lg:text-xl xl:text-xl 2xl:text-xl">
             <p className="sm:leading-6 md:leading-6 lg:leading-8">
-            SMK Web — Oʻzbekistonning Samarqand shahrida joylashgan dinamik veb-dizayn va platformalar ishlab chiqaruvchi kompaniya. 2024-yilda Shaxzod va Omadbek tomonidan tashkil etilgan SMK Web turli korxonalarning o‘ziga xos ehtiyojlariga moslashtirilgan yetakchi veb-saytlarni yaratishga ixtisoslashgan. Kompaniya nafaqat estetik jihatdan yoqimli, balki tashrif buyuruvchilarni mijozlarga samarali aylantiradigan funktsional veb-saytlarni taqdim etishdan faxrlanadi.
+            SMK Web — Oʻzbekistonning Samarqand shahrida joylashgan dinamik veb-dizayn va platformalar ishlab chiqaruvchi kompaniya. 2024-yilda Shaxzod Umarov va Omadbek Bekpulatov tomonidan tashkil etilgan SMK Web turli korxonalarning o‘ziga xos ehtiyojlariga moslashtirilgan yetakchi veb-saytlarni yaratishga ixtisoslashgan. Kompaniya nafaqat estetik jihatdan yoqimli, balki tashrif buyuruvchilarni mijozlarga samarali aylantiradigan funktsional veb-saytlarni taqdim etishdan faxrlanadi.
             </p>
           </div>
         </div>
